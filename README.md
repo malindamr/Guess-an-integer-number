@@ -1,1 +1,1 @@
-# Guess-an-integer-number
+# Guess an integer number
